@@ -90,9 +90,9 @@ You can include these details under the "Outputs" section, showing specific UI e
 - Integration of the chatbot within the application for seamless user interaction.
 
 ## Contributors
-- Suyash Rai
-- Sarthak Gupta
-- Parth Garg
+- Suyash Rai :- https://github.com/Suyash73
+- Sarthak Gupta :- https://github.com/Sarthakls9
+- Parth Garg :- https://github.com/Parthgargg
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
